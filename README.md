@@ -1,3 +1,5 @@
+# This project is not being maintained anymore. Check out other forks (e.g. https://github.com/OrangeSpork/HS2VR) if you encounter issues or want to contribute.
+
 # About
 
 This is a hack to get VR functionality into Honey Select 2, since the offical VR mode hadn't been released yet. Unless someone makes a proper release of VRGIN that works with HS2, consider this project abandoned.
